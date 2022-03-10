@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riyoprayogi
-- 👀 I’m interested in Back End Web Developer
-- 🌱 I’m currently learning PHP languange 
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C++ Languange 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
