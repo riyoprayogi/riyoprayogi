@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyoprayogi
-- 👀 I’m interested in Game Development and Web Development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
